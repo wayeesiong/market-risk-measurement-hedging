@@ -253,3 +253,39 @@ market-risk-measurement-hedging/
 └── report/
     ├── README.md
     └── market-risk-measurement-hedging-analysis.pdf
+
+## Tools & Techniques
+
+- Microsoft Excel
+- Regression Analysis
+- Portfolio Beta
+- Historical Simulation
+- Delta-Normal VaR
+- Monte Carlo Simulation
+- Expected Shortfall
+- Scenario Analysis
+- Futures Hedging
+- Options Hedging
+- Market Risk Management
+
+---
+
+## Project Files
+
+- [Market Risk Dataset](data/market-risk-dataset.xlsx)
+- [Excel Analysis Workbook](analysis/market-risk-analysis.xlsm)
+- [Full Academic Report](report/market-risk-measurement-hedging-analysis.pdf)
+
+---
+
+## Key Takeaway
+
+This project demonstrates the application of quantitative market risk techniques to a multi-index investment portfolio and highlights how different risk models and derivative instruments can support portfolio risk-management decisions.
+
+The analysis also illustrates the importance of evaluating model assumptions, tail risk, hedge effectiveness and implementation constraints rather than relying on a single risk metric.
+
+---
+
+## About
+
+This project forms part of my professional portfolio showcasing work across investment analysis, financial modelling, econometrics, portfolio management and risk analytics.
